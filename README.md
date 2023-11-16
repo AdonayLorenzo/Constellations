@@ -1,4 +1,4 @@
-#IES EL RINCON
+## IES EL RINCON
 
 This web was made in the center Ies El RINCON
 
