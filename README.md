@@ -26,7 +26,7 @@ The **IES EL RINCON Constellations Web Project** is designed to present an exten
 
 To run this project locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/username/repository.git`
+1. Clone this repository: `git clone https://github.com/AdonayLorenzo/Constellations.git`
 2. Open the `index.html` file in your browser.
 
 ## Contributing
